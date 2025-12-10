@@ -37,7 +37,7 @@ This repository is in the early planning and research phase. We are currently:
 
 We welcome developers, linguists, researchers, data specialists, and advocates. Here's how you can help:
 
-**Explore & Discuss:** Review our [Project White Paper & Roadmap](https://docs.google.com/document/d/1aKm_GxPjNfhHR-Hls97kaufedH72TRVAUOtd6vtRioM/edit?usp=sharing) and join the conversation in [GitHub Discussions](Link).
+**Explore & Discuss:** Review our [Project White Paper & Roadmap](https://docs.google.com/document/d/1aKm_GxPjNfhHR-Hls97kaufedH72TRVAUOtd6vtRioM/edit?usp=sharing) and join the conversation in [GitHub Discussions](https://github.com/NunyaHotor/babel-initiative-african-lang-ai/discussions).
 
 **Research:** Help survey existing datasets, academic papers, or tools relevant to African NLP.
 
